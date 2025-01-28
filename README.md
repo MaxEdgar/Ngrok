@@ -1,4 +1,5 @@
 # Ngrok-setup-script
+![Alt text](https://cdn.prod.website-files.com/63ed4bc7a4b189da942a6b8c/6411ffa15228f430a39c69a6_Frame%203.svg)
 
 This script automates the installation and setup of [ngrok](https://ngrok.com/), a tool that creates secure tunnels to your localhost. With this script, you can easily set up ngrok and expose a port to the internet with minimal effort.
 
@@ -33,3 +34,7 @@ sudo ./setup.sh
 > Get It From "https://dashboard.ngrok.com/get-started/your-authtoken"
 ```
 ./run.sh OR Just type "ngrok http ####"
+```
+Example :
+![ngrok command line](https://camerondwyer.com/wp-content/uploads/2019/09/ngrok-command-line-http-default.png?w=1024)
+
