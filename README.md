@@ -25,7 +25,7 @@ chmod +x run.sh
 ```
 ### 4. Run setup.sh
 ```
-sudo ./setup.sh
+sudo ./setup.sh OR sudo bash setup.sh
 ```
 ### 5. Enter Your Authtoken :
 ```
